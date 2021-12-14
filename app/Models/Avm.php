@@ -40,7 +40,7 @@ class Avm extends Model
                 'postcode'      => $request->postcode,
                 'housenumber'   => $request->housenumber,
                 'houseaddition' => '',
-                'imag3e'        => '1',
+                'image'        => '1',
                 'buildyear'     => '',
                 'innersurfacearea' => '',
                 'outersurfacearea'=> '',
